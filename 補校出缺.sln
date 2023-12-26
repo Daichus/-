@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "補校出缺", "補校出缺\補校出缺.csproj", "{7604A7B0-5829-4E48-98B3-E2DC39485B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7604A7B0-5829-4E48-98B3-E2DC39485B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7604A7B0-5829-4E48-98B3-E2DC39485B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7604A7B0-5829-4E48-98B3-E2DC39485B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7604A7B0-5829-4E48-98B3-E2DC39485B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46AFF0F-B2F1-49FE-9DAE-C424190F2163}
+	EndGlobalSection
+EndGlobal
